@@ -98,7 +98,7 @@ aspiring_to_be = ["Full Stack Developer", "Cloud Engineer", "AI Engineer"]
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border_color=BE4F8E)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Manvitha2006?theme=dark&font=Fira%20Code&ext=heatmap&border_color=BE4F8E)](https://leetcode.com/Manvitha2006)
 
 </div>
 
@@ -110,7 +110,7 @@ aspiring_to_be = ["Full Stack Developer", "Cloud Engineer", "AI Engineer"]
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-BE4F8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvitha-g-041b54310)
 [![Gmail](https://img.shields.io/badge/GMAIL-BE4F8E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gardhasmanvitha@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-BE4F8E?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-BE4F8E?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manvitha2006)
 
 <br/>
 
