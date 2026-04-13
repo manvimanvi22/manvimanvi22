@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. Still learning, always curious.
+I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. 
 
 ---
 
