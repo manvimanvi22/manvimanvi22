@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hey! I'm Manvitha — a 3rd year CS student with a focus on full stack web development. I enjoy working across the stack, from building interfaces to writing backend logic, and I'm at a stage where I'm actively building and shipping projects. Still growing, but committed to improving with every line of code. 🚀
+I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. Still learning, always curious.
 
 ---
 
