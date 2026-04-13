@@ -158,11 +158,7 @@ I'm a CS student working towards becoming a full stack developer. I enjoy buildi
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manvimanvi22&show_icons=true&hide_border=true&border_radius=8&bg_color=0D0D0D&title_color=A89BC2&icon_color=7C6FA0&text_color=8A8AA8" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvimanvi22&layout=compact&hide_border=true&border_radius=8&bg_color=0D0D0D&title_color=A89BC2&text_color=8A8AA8" height="160" />
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvimanvi22&bg_color=0D0D0D&color=A89BC2&line=7C6FA0&point=D0C5E8&area=true&area_color=1A1A2E&hide_border=true" width="95%" />
 
