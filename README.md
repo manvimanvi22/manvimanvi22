@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hi,%20I'm%20Manvitha&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Heyyy,%20I'm%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. 
+I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. Still learning, always curious.
 
 ---
 
