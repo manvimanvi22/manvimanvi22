@@ -19,7 +19,7 @@
 
 ## About Me
 
-Hey! I'm Manvitha — a 3rd year CS student who loves building things for the web. I'm always coding something, whether it's a new UI, a backend feature, or just experimenting with an idea. I enjoy the whole process of taking something from zero to working, and I'm genuinely having fun doing it. Still learning a ton, but shipping as I go! 🚀
+Hey! I'm Manvitha — a 3rd year CS student with a focus on full stack web development. I enjoy working across the stack, from building interfaces to writing backend logic, and I'm at a stage where I'm actively building and shipping projects. Still growing, but committed to improving with every line of code. 🚀
 
 ---
 
