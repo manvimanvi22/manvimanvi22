@@ -17,12 +17,6 @@
 
 ---
 
-## About Me
-
-I'm a CS student working towards becoming a full stack developer. I enjoy building things for the web and I'm currently focused on strengthening both my frontend and backend skills. Still learning, always curious.
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -115,39 +109,6 @@ I'm a CS student working towards becoming a full stack developer. I enjoy buildi
 
 ---
 
-## Currently Learning
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/>
-      <sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48"/><br/>
-      <sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48"/><br/>
-      <sub><b>GCP</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## GitHub
 
 <div align="center">
@@ -155,8 +116,6 @@ I'm a CS student working towards becoming a full stack developer. I enjoy buildi
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=manvimanvi22&theme=dark&hide_border=true&border_radius=8&background=0D0D0D&ring=7C6FA0&fire=A89BC2&currStreakLabel=7C6FA0&sideLabels=555570&dates=444455&currStreakNum=D0C5E8&sideNums=D0C5E8)](https://git.io/streak-stats)
-
-<br/>
 
 <br/>
 
@@ -175,11 +134,3 @@ I'm a CS student working towards becoming a full stack developer. I enjoy buildi
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=100&section=footer" />
-
-*Open to learning, collaboration, and new opportunities.*
-
-</div>
