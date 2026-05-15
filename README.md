@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hi, I am Manvitha!
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hi,%20I%20am%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=500&size=20&pause=1200&color=7C6FA0&center=true&vCenter=true&width=620&lines=CS+student+%26+aspiring+developer.;Learning+full+stack+development+one+step+at+a+time.;Comfortable+with+frontend%2C+growing+on+the+backend." />
