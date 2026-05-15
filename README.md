@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hey,%20I'm%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hi,%20I%20am%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=500&size=20&pause=1200&color=7C6FA0&center=true&vCenter=true&width=620&lines=CS+student+%26+aspiring+developer.;Learning+full+stack+development+one+step+at+a+time.;Comfortable+with+frontend%2C+growing+on+the+backend." />
 
@@ -11,11 +11,18 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=A89BC2)](https://leetcode.com/Manvitha2006)
 [![Profile Views](https://komarev.com/ghpvc/?username=manvimanvi22&style=for-the-badge&color=1A1A2E&label=VISITORS)](https://github.com/manvimanvi22)
 
+<br/>
+
+<!-- Navigation -->
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-1A1A2E?style=flat-square&logoColor=A89BC2)](#tech-stack)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=flat-square&logoColor=A89BC2)](#github)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A2E?style=flat-square&logoColor=A89BC2)](#leetcode)
+
 </div>
 
 ---
 
-## ⟦ Tech Stack ⟧
+## Tech Stack
 
 **Frontend**
 
@@ -43,9 +50,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A89BC2)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A89BC2)
 
+<div align="right"><a href="#top">↑ back to top</a></div>
+
 ---
 
-## ⟦ GitHub ⟧
+## GitHub
 
 <div align="center">
 
@@ -57,15 +66,19 @@
 
 </div>
 
+<div align="right"><a href="#top">↑ back to top</a></div>
+
 ---
 
-## ⟦ LeetCode ⟧
+## LeetCode
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Manvitha2006?theme=dark&font=Crimson+Pro&ext=heatmap&border_color=1A1A2E)](https://leetcode.com/Manvitha2006)
 
 </div>
+
+<div align="right"><a href="#top">↑ back to top</a></div>
 
 ---
 
