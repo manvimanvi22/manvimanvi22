@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Heyyy,%20I'm%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hey,%20I'm%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=500&size=20&pause=1200&color=7C6FA0&center=true&vCenter=true&width=620&lines=CS+student+%26+aspiring+developer.;Learning+full+stack+development+one+step+at+a+time.;Comfortable+with+frontend%2C+growing+on+the+backend." />
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=500&size=20&pause=1200&color=7C6FA0&center=true&vCenter=true&width=620&lines=CS+student+%26+aspiring+developer.;Learning+full+stack+development+one+step+at+a+time.;Comfortable+with+frontend%2C+growing+on+the+backend." alt="Typing SVG" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A89BC2)](https://www.linkedin.com/in/manvitha-g-041b54310)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A89BC2)](mailto:gardhasmanvitha@gmail.com)
@@ -17,107 +15,44 @@
 
 ---
 
-## Tech Stack
+## ⟦ Tech Stack ⟧
 
-<div align="center">
+**Frontend**
 
-### ⟦ Frontend ⟧
+![HTML](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=A89BC2)
+![CSS](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=A89BC2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=A89BC2)
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=A89BC2)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-  </tr>
-</table>
+**Backend**
 
-### ⟦ Backend ⟧
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=A89BC2)
+![Express](https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=A89BC2)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A89BC2)
+![Flask](https://img.shields.io/badge/Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=A89BC2)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=A89BC2)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48"/><br/>
-      <sub><b>Flask</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-  </tr>
-</table>
+**Databases**
 
-### ⟦ Databases ⟧
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=A89BC2)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=A89BC2)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-  </tr>
-</table>
+**Tools**
 
-### ⟦ Tools ⟧
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A89BC2)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A89BC2)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A89BC2)
 
 ---
 
-## GitHub
+## ⟦ GitHub ⟧
 
 <div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=manvimanvi22&show_icons=true&hide_border=true&title_color=A89BC2&icon_color=7C6FA0&text_color=D0C5E8&bg_color=0D0D0D" width="48%" />
+<img src="https://streak-stats.demolab.com?user=manvimanvi22&hide_border=true&border_radius=8&background=0D0D0D&ring=7C6FA0&fire=A89BC2&currStreakLabel=7C6FA0&sideLabels=555570&dates=444455&currStreakNum=D0C5E8&sideNums=D0C5E8" width="48%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manvimanvi22&theme=dark&hide_border=true&border_radius=8&background=0D0D0D&ring=7C6FA0&fire=A89BC2&currStreakLabel=7C6FA0&sideLabels=555570&dates=444455&currStreakNum=D0C5E8&sideNums=D0C5E8)](https://git.io/streak-stats)
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvimanvi22&bg_color=0D0D0D&color=A89BC2&line=7C6FA0&point=D0C5E8&area=true&area_color=1A1A2E&hide_border=true" width="95%" />
 
@@ -125,7 +60,7 @@
 
 ---
 
-## LeetCode
+## ⟦ LeetCode ⟧
 
 <div align="center">
 
@@ -134,3 +69,5 @@
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16213E,1A1A2E,0D0D0D&height=100&section=footer" />
