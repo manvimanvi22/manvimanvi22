@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi, I am Manvitha!
@@ -83,5 +83,4 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=16213E,1A1A2E,0D0D0D&height=100&section=footer" />
- in this code leave everything unchanged except the header saying hi i am manvitha remove that text
-```
+ 
