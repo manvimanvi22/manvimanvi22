@@ -50,7 +50,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A89BC2)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A89BC2)
 
-<div align="right"><a href="#top">↑ back to top</a></div>
 
 ---
 
@@ -66,7 +65,6 @@
 
 </div>
 
-<div align="right"><a href="#top">↑ back to top</a></div>
 
 ---
 
@@ -78,7 +76,6 @@
 
 </div>
 
-<div align="right"><a href="#top">↑ back to top</a></div>
 
 ---
 
