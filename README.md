@@ -1,7 +1,4 @@
-
 <div align="center">
-
-# Hi, I am Manvitha!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1A1A2E,16213E&height=170&section=header&text=Hi,%20I%20am%20Manvitha!&fontSize=42&fontColor=A89BC2&fontAlignY=45&animation=fadeIn" />
 
@@ -53,7 +50,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A89BC2)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A89BC2)
 
-
 ---
 
 ## GitHub
@@ -68,7 +64,6 @@
 
 </div>
 
-
 ---
 
 ## LeetCode
@@ -79,8 +74,6 @@
 
 </div>
 
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=16213E,1A1A2E,0D0D0D&height=100&section=footer" />
- 
